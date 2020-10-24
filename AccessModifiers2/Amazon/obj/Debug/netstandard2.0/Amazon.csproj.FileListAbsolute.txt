@@ -1,0 +1,9 @@
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\bin\Debug\netstandard2.0\Amazon.deps.json
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\bin\Debug\netstandard2.0\Amazon.dll
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\bin\Debug\netstandard2.0\Amazon.pdb
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\obj\Debug\netstandard2.0\Amazon.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\obj\Debug\netstandard2.0\Amazon.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\obj\Debug\netstandard2.0\Amazon.dll
+C:\dev\FundamentalsCSharp\AccessModifiers2\Amazon\obj\Debug\netstandard2.0\Amazon.pdb

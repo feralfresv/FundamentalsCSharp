@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\dev\FundamentalsCSharp\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\dev\FundamentalsCSharp\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\dev\FundamentalsCSharp\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\dev\FundamentalsCSharp\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\dev\FundamentalsCSharp\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

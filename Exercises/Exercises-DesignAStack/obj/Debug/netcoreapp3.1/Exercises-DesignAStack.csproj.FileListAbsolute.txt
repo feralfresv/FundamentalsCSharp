@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\bin\Debug\netcoreapp3.1\Exercises-DesignAStack.exe
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\bin\Debug\netcoreapp3.1\Exercises-DesignAStack.deps.json
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\bin\Debug\netcoreapp3.1\Exercises-DesignAStack.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\bin\Debug\netcoreapp3.1\Exercises-DesignAStack.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\bin\Debug\netcoreapp3.1\Exercises-DesignAStack.dll
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\bin\Debug\netcoreapp3.1\Exercises-DesignAStack.pdb
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.dll
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.pdb
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesignAStack\obj\Debug\netcoreapp3.1\Exercises-DesignAStack.genruntimeconfig.cache

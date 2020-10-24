@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+C:\dev\FundamentalsCSharp\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+C:\dev\FundamentalsCSharp\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+C:\dev\FundamentalsCSharp\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\dev\FundamentalsCSharp\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\dev\FundamentalsCSharp\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.genruntimeconfig.cache

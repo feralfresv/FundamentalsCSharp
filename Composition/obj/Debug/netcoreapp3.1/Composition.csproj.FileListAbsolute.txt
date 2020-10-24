@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+C:\dev\FundamentalsCSharp\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+C:\dev\FundamentalsCSharp\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+C:\dev\FundamentalsCSharp\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+C:\dev\FundamentalsCSharp\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\dev\FundamentalsCSharp\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\dev\FundamentalsCSharp\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\dev\FundamentalsCSharp\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\dev\FundamentalsCSharp\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\dev\FundamentalsCSharp\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+C:\dev\FundamentalsCSharp\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+C:\dev\FundamentalsCSharp\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+C:\dev\FundamentalsCSharp\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+C:\dev\FundamentalsCSharp\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache

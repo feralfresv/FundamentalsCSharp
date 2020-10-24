@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\dev\FundamentalsCSharp\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\dev\FundamentalsCSharp\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\dev\FundamentalsCSharp\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\dev\FundamentalsCSharp\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache

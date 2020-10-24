@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Constructure\bin\Debug\netcoreapp3.1\Constructure.exe
+C:\dev\FundamentalsCSharp\Constructure\bin\Debug\netcoreapp3.1\Constructure.deps.json
+C:\dev\FundamentalsCSharp\Constructure\bin\Debug\netcoreapp3.1\Constructure.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Constructure\bin\Debug\netcoreapp3.1\Constructure.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Constructure\bin\Debug\netcoreapp3.1\Constructure.dll
+C:\dev\FundamentalsCSharp\Constructure\bin\Debug\netcoreapp3.1\Constructure.pdb
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.dll
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.pdb
+C:\dev\FundamentalsCSharp\Constructure\obj\Debug\netcoreapp3.1\Constructure.genruntimeconfig.cache

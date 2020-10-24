@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Testability\Testability\bin\Debug\netcoreapp3.1\Testability.exe
+C:\dev\FundamentalsCSharp\Testability\Testability\bin\Debug\netcoreapp3.1\Testability.deps.json
+C:\dev\FundamentalsCSharp\Testability\Testability\bin\Debug\netcoreapp3.1\Testability.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Testability\Testability\bin\Debug\netcoreapp3.1\Testability.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Testability\Testability\bin\Debug\netcoreapp3.1\Testability.dll
+C:\dev\FundamentalsCSharp\Testability\Testability\bin\Debug\netcoreapp3.1\Testability.pdb
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.dll
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.pdb
+C:\dev\FundamentalsCSharp\Testability\Testability\obj\Debug\netcoreapp3.1\Testability.genruntimeconfig.cache

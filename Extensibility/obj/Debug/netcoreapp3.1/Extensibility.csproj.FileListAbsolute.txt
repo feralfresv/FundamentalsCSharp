@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.exe
+C:\dev\FundamentalsCSharp\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.deps.json
+C:\dev\FundamentalsCSharp\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.dll
+C:\dev\FundamentalsCSharp\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.pdb
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.dll
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.pdb
+C:\dev\FundamentalsCSharp\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.genruntimeconfig.cache

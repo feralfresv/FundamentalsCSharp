@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\dev\FundamentalsCSharp\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\dev\FundamentalsCSharp\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\dev\FundamentalsCSharp\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\dev\FundamentalsCSharp\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

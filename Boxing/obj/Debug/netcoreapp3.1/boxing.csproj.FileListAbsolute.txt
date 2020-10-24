@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Boxing\bin\Debug\netcoreapp3.1\boxing.exe
+C:\dev\FundamentalsCSharp\Boxing\bin\Debug\netcoreapp3.1\boxing.deps.json
+C:\dev\FundamentalsCSharp\Boxing\bin\Debug\netcoreapp3.1\boxing.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Boxing\bin\Debug\netcoreapp3.1\boxing.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Boxing\bin\Debug\netcoreapp3.1\boxing.dll
+C:\dev\FundamentalsCSharp\Boxing\bin\Debug\netcoreapp3.1\boxing.pdb
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.dll
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.pdb
+C:\dev\FundamentalsCSharp\Boxing\obj\Debug\netcoreapp3.1\boxing.genruntimeconfig.cache

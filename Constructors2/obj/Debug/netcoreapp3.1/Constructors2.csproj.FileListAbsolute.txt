@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.exe
+C:\dev\FundamentalsCSharp\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.deps.json
+C:\dev\FundamentalsCSharp\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.dll
+C:\dev\FundamentalsCSharp\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.pdb
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.dll
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.pdb
+C:\dev\FundamentalsCSharp\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.genruntimeconfig.cache

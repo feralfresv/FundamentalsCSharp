@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.exe
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.deps.json
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\dev\FundamentalsCSharp\Exercises\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.genruntimeconfig.cache

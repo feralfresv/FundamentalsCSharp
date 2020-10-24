@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\bin\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.exe
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\bin\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.deps.json
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\bin\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\bin\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\bin\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.dll
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\bin\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.pdb
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.dll
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.pdb
+C:\dev\FundamentalsCSharp\Exercises\Exercises-DesingADataBaseConnection\Exercises-DesingADataBaseConnection\obj\Debug\netcoreapp3.1\Exercises-DesingADataBaseConnection.genruntimeconfig.cache

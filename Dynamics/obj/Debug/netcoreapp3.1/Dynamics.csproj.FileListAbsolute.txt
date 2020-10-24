@@ -1,0 +1,13 @@
+C:\dev\FundamentalsCSharp\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.exe
+C:\dev\FundamentalsCSharp\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.deps.json
+C:\dev\FundamentalsCSharp\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.runtimeconfig.json
+C:\dev\FundamentalsCSharp\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.runtimeconfig.dev.json
+C:\dev\FundamentalsCSharp\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.dll
+C:\dev\FundamentalsCSharp\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.pdb
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.dll
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.pdb
+C:\dev\FundamentalsCSharp\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.genruntimeconfig.cache
