@@ -1,0 +1,9 @@
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\dev\FundamentalsCSharp\OOP\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
